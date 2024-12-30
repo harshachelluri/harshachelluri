@@ -18,17 +18,7 @@
 
 ## 🛠️ **Skills & Technologies**:
 
-- **Programming Languages**:  
-  ![Python](https://img.icons8.com/color/48/python--v1.png)  
-
-- **Databases**:  
-  ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
-  
-- **Power BI**:  
-  ![Power BI](https://img.icons8.com/color/48/power-bi.png)
-  
-- **Machine Learning**:  
-  ![Machine Learning](https://img.icons8.com/color/48/artificial-intelligence.png)  
+  ![Python](https://img.icons8.com/color/48/python--v1.png)  ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)   ![Power BI](https://img.icons8.com/color/48/power-bi.png) ![Machine Learning](https://img.icons8.com/color/48/artificial-intelligence.png)  
 
 ---
 ## 📚 **Certifications**:
@@ -41,7 +31,7 @@
 ## 🌐 **Let's Connect**:
 
 I am always open to new ideas, collaborations, and knowledge sharing. Feel free to reach out if you'd like to discuss **data science**, **machine learning**, **NLP**, or any other interesting topic. You can connect with me on LinkedIn:
-
+                      
 <a href="https://www.linkedin.com/in/chellurisriharsha/">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
