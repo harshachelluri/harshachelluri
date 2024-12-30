@@ -10,8 +10,8 @@
 ## 🌟 **What I Love to Do**:
 
 - 💻 **Building innovative data solutions** to solve challenging problems.
-- 📰 **Staying updated on the latest in AI, Machine Learning, and NLP** — constantly learning and adapting to new trends.
-- 🎤 **Attending tech meetups, hackathons, to network and grow with like-minded professionals.
+- 📰 **Staying updated on the latest in AI, Machine Learning** — constantly learning and adapting to new trends.
+- 🎤 Attending hackathons, to network and grow with like-minded professionals.
 
 
 ---
