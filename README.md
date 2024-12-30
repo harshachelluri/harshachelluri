@@ -21,19 +21,16 @@
 - **Programming Languages**:  
   ![Python](https://img.icons8.com/color/48/python--v1.png)  
 
-  
-  - **Databases**:  
+- **Databases**:  
   ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)  
   
-
 - **Power BI**:  
-  ![Power BI](https://img.icons8.com/color/48/power-bi.png)  
-
-
+  ![Power BI](https://img.icons8.com/color/48/power-bi.png)
+  
 - **Machine Learning**:  
   ![Machine Learning](https://img.icons8.com/color/48/artificial-intelligence.png)  
 
-
+---
 ## 📚 **Certifications**:
 - **Data Analytics Essentials** – Cisco Networking (2024)
 - **Google Data Analytics** – Coursera (2024)
