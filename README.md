@@ -2,9 +2,12 @@
 
 **Welcome to my GitHub profile!** I am a **Data Science enthusiast** with a strong foundation in **Python**, **MySQL**, **Power BI**, **Machine Learning**, and **Natural Language Processing (NLP)**. I am passionate about using data-driven insights to solve real-world problems and leveraging cutting-edge technologies to make a meaningful impact.
 
+----
+
+
 💬 **Feel free to reach out** — I'm happy to collaborate, share knowledge, or simply discuss data science ideas!  
 💡 I actively participate in **Hackathons**, where I love applying my skills to build innovative solutions under time pressure.
----
+
 
 ## 🌟 **What I Love to Do**:
 
