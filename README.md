@@ -37,6 +37,7 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 </a>
 
 ---
+## GitHub Contributions Summary
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshachelluri)](https://git.io/streak-stats)      
 ----         
 
