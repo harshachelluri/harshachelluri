@@ -4,9 +4,6 @@
 
 💬 **Feel free to reach out** — I'm happy to collaborate, share knowledge, or simply discuss data science ideas!  
 💡 I actively participate in **Hackathons**, where I love applying my skills to build innovative solutions under time pressure.
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/harshachelluri/github-readme-quotes)
-
 ---
 
 ## 🌟 **What I Love to Do**:
