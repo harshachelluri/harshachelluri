@@ -38,6 +38,11 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 
+### Profile View Counters
+![](https://komarev.com/ghpvc/?username=harshachelluri&color=blue&style=flat&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=harshachelluri&color=brightgreen&style=for-the-badge&label=VISITORS+COUNT)
+![](https://komarev.com/ghpvc/?username=harshachelluri&color=dc143c&style=flat-square&label=PROFILE+HITS)
+![](https://komarev.com/ghpvc/?username=harshachelluri&base=500&abbreviated=true&color=yellowgreen&style=plastic&label=TOTAL+VIEWS)
 ---
 ## GitHub Contributions Summary
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harshachelluri)](https://git.io/streak-stats)      
