@@ -44,8 +44,13 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 ![](https://komarev.com/ghpvc/?username=harshachelluri&color=dc143c&style=flat-square&label=PROFILE+HITS)
 ![](https://komarev.com/ghpvc/?username=harshachelluri&base=500&abbreviated=true&color=yellowgreen&style=plastic&label=TOTAL+VIEWS)
 ---
-## GitHub Contributions Summary      
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harshachelluri)](https://git.io/streak-stats)         
+## GitHub Contributions Summary
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=harshachelluri" alt="GitHub Streak" />
+</a>
+
+
 ----         
 
 🚀 **Thanks for visiting my profile!** Let’s build something amazing together!
