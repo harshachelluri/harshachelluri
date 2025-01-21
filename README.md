@@ -32,7 +32,9 @@
 
 ## 🌐 **Let's Connect**:
 
-I am always open to new ideas, collaborations, and knowledge sharing. Feel free to reach out if you'd like to discuss **data science**, **machine learning**, **NLP**, or any other interesting topic. You can connect with me on LinkedIn:
+I am always open to new ideas, collaborations, and knowledge sharing. Feel free to reach out if you'd like to discuss **data science**, **machine learning**, **NLP**, or any other interesting topic.
+
+### You can connect with me on LinkedIn:
                       
 <a href="https://www.linkedin.com/in/chellurisriharsha/">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
