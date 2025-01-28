@@ -46,10 +46,6 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 ![](https://komarev.com/ghpvc/?username=harshachelluri&color=dc143c&style=flat-square&label=PROFILE+HITS)
 ![](https://komarev.com/ghpvc/?username=harshachelluri&base=500&abbreviated=true&color=yellowgreen&style=plastic&label=TOTAL+VIEWS)
 ---
-# GitHub Profile Overview
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshachelluri&theme=dark)
-
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshachelluri&theme=dark)
 
 
 🚀 **Thanks for visiting my profile!** Let’s build something amazing together!
