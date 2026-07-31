@@ -41,8 +41,19 @@ I actively participate in technical communities, AI projects, hackathons, and co
 
 # 🛠️ Skills & Technologies
 
+## 🛠️ Skills & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,html,css,mongodb,mysql,git,github,vscode,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,git,github,vscode,docker&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-00897B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-8E44AD?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
 ### AI & Data Skills
