@@ -1,54 +1,86 @@
-Hi, I'm Chelluri Sri Harsha 👋
-🚀 Associate AI Engineer | Generative AI | LLMs | Agentic AI | RAG Systems | NLP
-
-Welcome to my GitHub profile! I am an Associate AI Engineer with experience in Generative AI, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Natural Language Processing, and Machine Learning.
-
-I specialize in building intelligent AI applications using modern AI engineering practices, including LLM integration, AI agents, vector search, prompt engineering, automation workflows, and scalable ML deployments.
-
-I am passionate about exploring emerging AI technologies and creating impactful solutions by combining research, engineering, and data-driven approaches.
-
-💬 Let's Connect
-
-I enjoy collaborating, learning, and building solutions around:
-
-🤖 Generative AI & LLM Applications
-🧠 Agentic AI & AI Agents
-🔎 Retrieval-Augmented Generation (RAG)
-🗣️ Natural Language Processing
-📊 Machine Learning & Data Science
-⚙️ MLOps & AI Application Development
-
-I actively explore new advancements in Artificial Intelligence and participate in technical communities, hackathons, and AI-focused learning initiatives.
-
-
----
-
-## 🛠️ **Skills & Technologies**:
-
-  ![Python](https://img.icons8.com/color/48/python--v1.png)  ![MySQL](https://img.icons8.com/color/48/mysql-logo.png)   ![Power BI](https://img.icons8.com/color/48/power-bi.png) ![Machine Learning](https://img.icons8.com/color/48/artificial-intelligence.png)  
-
----
-## 📚 **Certifications**:
-- **Data Analytics Essentials** – Cisco Networking (2024)
-- **Google Data Analytics** – Coursera (2024)
-- **Data Science with Python** – Great Learning (2024)
-
----
-
-## 🌐 **Let's Connect**:
-
-I am always open to new ideas, collaborations, and knowledge sharing. Feel free to reach out if you'd like to discuss **data science**, **machine learning**, **NLP**, or any other interesting topic.
-
-### You can connect with me on LinkedIn:
-                      
-<a href="https://www.linkedin.com/in/chellurisriharsha/">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-</a>
-
-# 👋 Hi, I'm Harsha Chelluri
+# 👋 Hi, I'm Chelluri Sri Harsha
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshachelluri&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+## 🚀 Associate AI Engineer | Generative AI | LLMs | Agentic AI | RAG Systems | NLP
+
+Welcome to my GitHub profile!
+
+I am an **Associate AI Engineer** passionate about building intelligent AI solutions using **Generative AI, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Natural Language Processing, and Machine Learning**.
+
+I specialize in developing AI applications using modern engineering practices, including:
+
+- 🤖 LLM Application Development
+- 🧠 AI Agents & Agentic Workflows
+- 🔎 Retrieval-Augmented Generation (RAG)
+- ✨ Prompt Engineering
+- 📚 Vector Databases & Semantic Search
+- ⚙️ AI Automation Workflows
+- 🚀 Scalable ML & AI Deployments
+
+I enjoy exploring emerging AI technologies and building impactful solutions by combining **research, engineering, and data-driven approaches**.
+
+---
+
+# 💬 Let's Connect
+
+I enjoy collaborating, learning, and building solutions around:
+
+- 🤖 Generative AI & LLM Applications
+- 🧠 Agentic AI & AI Agents
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🗣️ Natural Language Processing
+- 📊 Machine Learning & Data Science
+- ⚙️ MLOps & AI Application Development
+
+I actively participate in technical communities, AI projects, hackathons, and continuous learning initiatives.
+
+---
+
+# 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,html,css,mongodb,mysql,git,github,vscode,docker&perline=7" />
+</p>
+
+### AI & Data Skills
+
+- Generative AI
+- Large Language Models (LLMs)
+- LangChain
+- RAG Pipelines
+- NLP
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Prompt Engineering
+- Vector Databases
+- AI Agents
+
+---
+
+# 📚 Certifications
+
+- 🏅 **Data Analytics Essentials** – Cisco Networking (2024)
+- 🏅 **Google Data Analytics Professional Certificate** – Coursera (2024)
+- 🏅 **Data Science with Python** – Great Learning (2024)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chellurisriharsha/">
+<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/harshachelluri">
+<img width="48" height="48" src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
+</a>
+
 </p>
 
 ---
@@ -77,7 +109,7 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=harshachelluri&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
@@ -85,7 +117,7 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshachelluri&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
@@ -93,10 +125,10 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 
 ---
 
-# 📌 Repository Stats
+# 📌 Repository Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshachelluri&theme=github_dark" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshachelluri&theme=github_dark" alt="Repositories Per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshachelluri&theme=github_dark" alt="Most Commit Language"/>
 </p>
 
@@ -110,18 +142,4 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
 
 ---
 
-# 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,mongodb,mysql,git,github,vscode,docker&perline=7" alt="Tech Stack"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/harshachelluri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p> 
+⭐ **Thanks for visiting my profile! Let's build, learn, and innovate with AI.**
