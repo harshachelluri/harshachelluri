@@ -1,19 +1,24 @@
-# Hi, I'm **Chelluri Sri Harsha** 👋                        
+Hi, I'm Chelluri Sri Harsha 👋
+🚀 Associate AI Engineer | Generative AI | LLMs | Agentic AI | RAG Systems | NLP
 
-**Welcome to my GitHub profile!** I am a **Data Science enthusiast** with a strong foundation in **Python**, **MySQL**, **Power BI**, **Machine Learning**, and **Natural Language Processing (NLP)**. I am passionate about using data-driven insights to solve real-world problems and leveraging cutting-edge technologies to make a meaningful impact.
+Welcome to my GitHub profile! I am an Associate AI Engineer with experience in Generative AI, Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Natural Language Processing, and Machine Learning.
 
-----
+I specialize in building intelligent AI applications using modern AI engineering practices, including LLM integration, AI agents, vector search, prompt engineering, automation workflows, and scalable ML deployments.
 
+I am passionate about exploring emerging AI technologies and creating impactful solutions by combining research, engineering, and data-driven approaches.
 
-💬 **Feel free to reach out** — I'm happy to collaborate, share knowledge, or simply discuss data science ideas!  
-💡 I actively participate in **Hackathons**, where I love applying my skills to build innovative solutions under time pressure.
+💬 Let's Connect
 
+I enjoy collaborating, learning, and building solutions around:
 
-## 🌟 **What I Love to Do**:
+🤖 Generative AI & LLM Applications
+🧠 Agentic AI & AI Agents
+🔎 Retrieval-Augmented Generation (RAG)
+🗣️ Natural Language Processing
+📊 Machine Learning & Data Science
+⚙️ MLOps & AI Application Development
 
-- 💻 **Building innovative data solutions** to solve challenging problems.
-- 📰 **Staying updated on the latest in AI, Machine Learning** — constantly learning and adapting to new trends.
-- 🎤 Attending hackathons, to network and grow with like-minded professionals.
+I actively explore new advancements in Artificial Intelligence and participate in technical communities, hackathons, and AI-focused learning initiatives.
 
 
 ---
