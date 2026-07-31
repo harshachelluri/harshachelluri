@@ -101,20 +101,31 @@ I actively participate in technical communities, AI projects, hackathons, and co
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshachelluri&theme=algolia&no-frame=true&no-bg=true&margin-w=15&row=2&column=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshachelluri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachelluri&layout=compact&theme=github_dark&count_private=true" alt="Top Languages"/>
+</p>
+
+---
+
 # 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harshachelluri&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
 </p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshachelluri&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 # 📈 Contribution Activity
