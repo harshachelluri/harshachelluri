@@ -108,8 +108,6 @@ I actively participate in technical communities, AI projects, hackathons, and co
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachelluri&layout=compact&theme=github_dark&count_private=true" alt="Top Languages"/>
 </p>
 
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
