@@ -45,16 +45,83 @@ I am always open to new ideas, collaborations, and knowledge sharing. Feel free 
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
 </a>
 
-### Profile View Counters
-![](https://komarev.com/ghpvc/?username=harshachelluri&color=blue&style=flat&label=PROFILE+VIEWS)
-![](https://komarev.com/ghpvc/?username=harshachelluri&color=brightgreen&style=for-the-badge&label=VISITORS+COUNT)
-![](https://komarev.com/ghpvc/?username=harshachelluri&color=dc143c&style=flat-square&label=PROFILE+HITS)
-![](https://komarev.com/ghpvc/?username=harshachelluri&base=500&abbreviated=true&color=yellowgreen&style=plastic&label=TOTAL+VIEWS)
+# 👋 Hi, I'm Harsha Chelluri
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshachelluri&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 ---
-# GitHub Profile Overview
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshachelluri&theme=dark)
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshachelluri&theme=dark)
+# 📊 GitHub Profile Overview
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshachelluri&theme=github_dark" alt="Profile Details"/>
+</p>
 
-🚀 **Thanks for visiting my profile!** Let’s build something amazing together!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshachelluri&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshachelluri&layout=compact&theme=github_dark&count_private=true" alt="Top Languages"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harshachelluri&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshachelluri&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshachelluri&theme=github-dark&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 📌 Repository Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshachelluri&theme=github_dark" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshachelluri&theme=github_dark" alt="Most Commit Language"/>
+</p>
+
+---
+
+# ⏱️ Productive Time
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshachelluri&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,html,css,mongodb,mysql,git,github,vscode,docker&perline=7" alt="Tech Stack"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/harshachelluri">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p> 
