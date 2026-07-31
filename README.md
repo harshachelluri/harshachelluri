@@ -41,8 +41,6 @@ I actively participate in technical communities, AI projects, hackathons, and co
 
 # 🛠️ Skills & Technologies
 
-## 🛠️ Skills & Technologies
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mongodb,mysql,git,github,vscode,docker&perline=7" />
 </p>
