@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=harshachelluri&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-## 🚀 Associate AI Engineer | Generative AI | LLMs | Agentic AI | RAG Systems | NLP
+## 🚀 AI Engineer | Generative AI | LLMs | Agentic AI | RAG Systems | NLP
 
 Welcome to my GitHub profile!
 
